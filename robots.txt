@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreeaNeculaiTHG.github.io/reference-t0q0c9/sitemap.xml
